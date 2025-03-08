@@ -13,10 +13,6 @@ For **backend development**, I work with technologies like **Node.js** and **Mon
 
 I also specialize in building **RESTful APIs** to allow smooth communication between frontend and backend systems. I’ve made sure these APIs have great performance, with an **API response time of less than 50 milliseconds** and **99% uptime**.
 
-I have also worked on improving operations by designing centralized databases, which help with **real-time monitoring** and **performance metrics**, making operations **60% more efficient**.
-
-I am experienced with **SQL** and creating relational databases to support scalable web applications. I am also knowledgeable in **cloud platforms like AWS**, where I help deploy and manage applications to ensure they are secure, highly available, and scalable.
-
 I am passionate about learning new technologies and always aim for excellence in **web development** and **software engineering**. Let’s connect and explore how we can work together!
 
 
