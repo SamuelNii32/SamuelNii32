@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/SamuelNii32/SamuelNii32/main/DALL%C2%B7E%202025-03-08%2000.16.01%20-%20A%20sleek%20and%20modern%20banner%20design%20for%20a%20GitHub%20profile.%20The%20banner%20should%20feature%20a%20minimalist%20and%20clean%20aesthetic%20with%20a%20subtle%20gradient%20background%2C%20i.jpg" height="50">
+<img src="https://raw.githubusercontent.com/SamuelNii32/SamuelNii32/main/DALL%C2%B7E%202025-03-08%2000.16.01%20-%20A%20sleek%20and%20modern%20banner%20design%20for%20a%20GitHub%20profile.%20The%20banner%20should%20feature%20a%20minimalist%20and%20clean%20aesthetic%20with%20a%20subtle%20gradient%20background%2C%20i.jpg" width="100%" height="300px">
+
 
 
 🎯 **Aspiring Web Developer | JavaScript | React | Django | ASP.NET**  
