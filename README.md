@@ -1,7 +1,15 @@
 <img src="https://raw.githubusercontent.com/SamuelNii32/SamuelNii32/main/DALL%C2%B7E%202025-03-08%2000.16.01%20-%20A%20sleek%20and%20modern%20banner%20design%20for%20a%20GitHub%20profile.%20The%20banner%20should%20feature%20a%20minimalist%20and%20clean%20aesthetic%20with%20a%20subtle%20gradient%20background%2C%20i.jpg" width="100%" height="300px">
-![MERN](https://img.shields.io/badge/-MERN-3C873A?style=flat-square&logo=mongodb&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=asp.net&logoColor=white)
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Logo" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express Logo" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React Logo" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Logo" width="100"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel Logo" width="100"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt="ASP.NET Logo" width="100"/>
+
 
 ## Hi, I'm Samuel Owusu Nii 👋
 
