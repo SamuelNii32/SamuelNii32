@@ -27,9 +27,14 @@ I am proficient in **Python** and passionate about learning new technologies. I 
 ![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=postgresql&logoColor=white)
 ![Django Rest Framework](https://img.shields.io/badge/-Django%20Rest%20Framework-092E20?style=flat-square&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=asp.net&logoColor=white)
 
 
 
-## Contact Me:
+## 📬 Contact Me
 - **GitHub**: [github.com/SamuelNii32](https://github.com/SamuelNii32)
 - **LinkedIn**: [Samuel Nii Owusu](https://www.linkedin.com/in/samuel-nii-owusu-909832239)
+- **Email**: [samuelnii6000@gmail.com](mailto:samuelnii6000@gmail.com)
+
