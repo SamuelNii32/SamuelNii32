@@ -1,19 +1,24 @@
 <img src="https://raw.githubusercontent.com/SamuelNii32/SamuelNii32/main/DALL%C2%B7E%202025-03-08%2000.16.01%20-%20A%20sleek%20and%20modern%20banner%20design%20for%20a%20GitHub%20profile.%20The%20banner%20should%20feature%20a%20minimalist%20and%20clean%20aesthetic%20with%20a%20subtle%20gradient%20background%2C%20i.jpg" width="100%" height="300px">
+![MERN](https://img.shields.io/badge/-MERN-3C873A?style=flat-square&logo=mongodb&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=asp.net&logoColor=white)
 
-Hi, I'm Samuel Owusu Nii 👋
+## Hi, I'm Samuel Owusu Nii 👋
 
 ## About Me:
-I'm a dedicated **Web Developer** and **Software Engineer** focused on backend data integration, programming languages, API development, and creating web applications.
+I'm a dedicated **Web Developer** and **Software Engineer** with a strong focus on **backend development**, **data integration**, and building **modern web applications** using industry-standard frameworks and tools.
 
 I have a **BSc in Computer Engineering** from the **University of Ghana** and am currently working towards a **Graduate Diploma in Web Development**.
 
-I am skilled in **frontend development**, where I create easy-to-use and visually attractive user interfaces using **HTML**, **CSS**, and JavaScript frameworks like **React.js**.
+### 🔧 Technical Skills:
+- **Frontend:** Crafting intuitive and responsive user interfaces using **HTML**, **CSS**, **JavaScript**, and **React.js**.
+- **Backend:** Building scalable and efficient backend systems using the **MERN stack (MongoDB, Express.js, React.js, Node.js)** and **ASP.NET Core MVC**.
+- **Frameworks:** Proficient in both **Laravel** (PHP) and **ASP.NET**, creating robust and secure web applications.
+- **API Development:** Specializing in **RESTful APIs** with a focus on performance and reliability (e.g., **<50ms response time**, **99% uptime**).
 
-For **backend development**, I work with technologies like **Node.js**, **MongoDB**, and **Django Rest Framework** to build strong server-side solutions. I focus on making sure data is processed quickly and accurately. I have achieved things like a **data retrieval speed of under 100 milliseconds** and a **data accuracy rate of 95%**.
+I'm passionate about delivering high-quality web solutions and always eager to explore new technologies to solve real-world problems.
 
-I also specialize in building **RESTful APIs** to allow smooth communication between frontend and backend systems. I’ve made sure these APIs have great performance, with an **API response time of less than 50 milliseconds** and **99% uptime**.
-
-I am proficient in **Python** and passionate about learning new technologies. I always aim for excellence in **web development** and **software engineering**. Let’s connect and explore how we can work together!
+Let’s connect and explore how we can work together!
 
 
 ## Skills:
