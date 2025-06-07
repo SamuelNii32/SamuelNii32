@@ -34,7 +34,6 @@ I am proficient in **Python** and passionate about learning new technologies. I 
 
 
 ## 📬 Contact Me
-- **GitHub**: [github.com/SamuelNii32](https://github.com/SamuelNii32)
-- **LinkedIn**: [Samuel Nii Owusu](https://www.linkedin.com/in/samuel-nii-owusu-909832239)
-- **Email**: [samuelnii6000@gmail.com](mailto:samuelnii6000@gmail.com)
-
+- [GitHub](https://github.com/SamuelNii32)
+- [LinkedIn](https://www.linkedin.com/in/samuel-nii-owusu-909832239)
+- [Email](mailto:samuelnii6000@gmail.com)
